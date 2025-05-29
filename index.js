@@ -24,7 +24,7 @@ app.use("/api/tasks", taskRoutes);
 app.use("/api/goals", goalRoutes);
 app.use("/api/quote", quote);
 app.get("/", (req, res) => {
-  res.send("API is running...");
+  res.send("API is Airepro Solution server running...");
 });
 
 const PORT = process.env.PORT || 5000;
