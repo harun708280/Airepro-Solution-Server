@@ -1,3 +1,4 @@
+
 # Airepro-Solution Mini Productivity Dashboard
 
 A full-stack productivity dashboard to manage daily tasks and goals, built with React.js, Node.js, Express, and MongoDB. Users can authenticate securely with JWT, create, update, drag and drop tasks, view motivational quotes, and toggle between dark and light themes.
@@ -38,17 +39,17 @@ A full-stack productivity dashboard to manage daily tasks and goals, built with 
 
 ### 1. Clone the repo client site :
 
-https://github.com/harun708280/Airepro-Solution-Client.git
-cd Airepro-Solution
-npm install
-npm run dev
+- https://github.com/harun708280/Airepro-Solution-Client.git
+-  Airepro-Solution
+- npm install
+- npm run dev
 
 ### 2. Clone the repo Backend
 
-https://github.com/harun708280/Airepro-Solution-Server.git
+- https://github.com/harun708280/Airepro-Solution-Server.git
 
-PORT=5000
-MONGODB_URI=mongodb_connection_string
-JWT_SECRET=jwt_secret
-npm install
-nodemon
+- PORT=5000
+- MONGODB_URI=mongodb_connection_string
+- JWT_SECRET=jwt_secret
+- npm install
+- nodemon
